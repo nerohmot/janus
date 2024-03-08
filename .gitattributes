@@ -98,7 +98,30 @@
 *.odp binary
 *.ODP binary
 
-# 3D models
+# Altium
+*.PrjPCB
+*.PrjPCBStructure
+*.PrjPCBVariants
+*.SchDoc
+*.PcbDoc
+*.SchLib
+*.PcbLib
+*.PCBDwf
+*.OutJob
+*.Harness
+
+# SIMetrix/SIMPLIS
+*.wxsch
+
+# SolidWorks
+*.sldprt binary
+*.SLDPRT binary
+*.sldasm binary
+*.SLDASM binary
+*.slddrw binary
+*.SLDDRW binary
+
+# 2D/3D models
 *.step binary
 *.STEP binary
 *.stp binary
@@ -111,11 +134,5 @@
 *.DXF binary
 *.dwg binary
 *.DWG binary
-*.sldprt binary
-*.SLDPRT binary
-*.sldasm binary
-*.SLDASM binary
-*.slddrw binary
-*.SLDDRW binary
 
 
